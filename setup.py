@@ -7,9 +7,9 @@ with open("requirements.txt") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="package_name",
+    name="HelloWrold",
     version="0.0.1",
-    author="my_name",
+    author="Vinicius",
     author_email="my_email",
     description="My short description",
     long_description=page_description,
